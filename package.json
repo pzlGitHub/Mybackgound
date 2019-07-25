@@ -1,0 +1,20 @@
+{
+  "devDependencies": {
+    "autoprefixer": "^9.6.1",
+    "clean-webpack-plugin": "^3.0.0",
+    "css-loader": "^3.1.0",
+    "cssnano": "^4.1.10",
+    "git": "^0.1.5",
+    "html-loader": "^0.5.5",
+    "html-webpack-plugin": "^3.2.0",
+    "imagemin": "^7.0.0",
+    "imagemin-pngquant": "^8.0.0",
+    "img-loader": "^3.0.1",
+    "mini-css-extract-plugin": "^0.8.0",
+    "postcss-cssnext": "^3.1.0",
+    "postcss-loader": "^3.0.0",
+    "url-loader": "^2.1.0",
+    "webpack": "^4.37.0",
+    "webpack-cli": "^3.3.6"
+  }
+}
